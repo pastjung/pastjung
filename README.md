@@ -13,22 +13,24 @@
 <div>
   <h3>Skills</h3>
   <div>
+        <img src="https://img.shields.io/badge/Java-F07A5B?style=plastic&logo=C++&logoColor=#F07A5B"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=#00599C"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=C++&logoColor=#3776AB"/>
-    <img src="https://img.shields.io/badge/Java-F07A5B?style=plastic&logo=C++&logoColor=#F07A5B"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=C++&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=C++&logoColor=#000000"/>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/JQuery-000000?style=plastic&logo=C++&logoColor=#000000"/>  
   </div>
   <div>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/>  
+    <img src="https://img.shields.io/badge/Spring Core-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
+    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
+    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
   </div>
   <div>
     <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=C++&logoColor=#4479A1"/>
+    <img src="https://img.shields.io/badge/Redis-994444?style=plastic&logo=C++&logoColor=#994444"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=C++&logoColor=#FFCA28"/>  
   </div>
   <div>
@@ -38,10 +40,10 @@
 </div>
 <div>
   <h3>Tools</h3>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=C++&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=C++&logoColor=#5C2D91"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=C++&logoColor=#007ACC"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=C++&logoColor=#2C2255"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=C++&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=C++&logoColor=#3DDC84"/>
 </div>
 
