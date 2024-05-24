@@ -16,17 +16,29 @@
         <img src="https://img.shields.io/badge/Java-F07A5B?style=plastic&logo=C++&logoColor=#F07A5B"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=#00599C"/>
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=C++&logoColor=#000000"/>
-  </div>
-  <div>
+    <div>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/>
     <img src="https://img.shields.io/badge/Spring Core-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
     <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
     <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
+  </div>
+    <div>
+    <img src="https://img.shields.io/badge/AWS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-EC2-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-S3-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-RDS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+      <img src="https://img.shields.io/badge/AWS-Route53-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-Elasticashe-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-CodeDeploy-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-Certificate Manager-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-CloudFront-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/AWS-SQS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=C++&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=C++&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=C++&logoColor=#000000"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=C++&logoColor=#4479A1"/>
