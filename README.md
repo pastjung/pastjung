@@ -1,6 +1,6 @@
 
 ## 🙌 Welcome My Github! :blush:
-💁 **My Portfolio** : [Notion-Page](chwogus0303@naver.com)
+💁 **My Portfolio** : [Notion-Page](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4)
 
 :memo: **My Blog** : [Velog-Page](https://velog.io/@chwogus/posts)
 
