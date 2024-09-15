@@ -1,10 +1,10 @@
 
-## Welcome My Github! :blush:
+## 🙌 Welcome My Github! :blush:
 :memo: **My Blog** : https://velog.io/@chwogus/posts
 
 :email: **My Email** : chwogus0303@naver.com
 
-## My Github
+## 📝 My Github
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -25,72 +25,55 @@
   </div>
 </div>
 
-## My Stack
+## 📚 My Stacks
 <div>
   <h4>Programming Language</h4>
   <div>
-    <img src="https://img.shields.io/badge/Java-F07A5B?style=plastic&logo=C++&logoColor=#F07A5B"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=C++&logoColor=#3776AB"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=#00599C"/>
+      <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
   <h4>Backend</h4>
   <div>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/>
-    <img src="https://img.shields.io/badge/Spring Core-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
-    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
-    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=C++&logoColor=#6DB33F"/> 
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=C++&logoColor=#009688"/> 
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
   </div>
   <h4>Cloud Platforms</h4>
   <div>
-    <img src="https://img.shields.io/badge/AWS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-EC2-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-S3-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-RDS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-      <img src="https://img.shields.io/badge/AWS-Route53-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-Elasticashe-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-CodeDeploy-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-Certificate Manager-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-CloudFront-008844?style=plastic&logo=C++&logoColor=#0008844"/>
-    <img src="https://img.shields.io/badge/AWS-SQS-008844?style=plastic&logo=C++&logoColor=#0008844"/>
+    <img src="https://img.shields.io/badge/amazon aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   </div>
   <h4>Database</h4>
   <div>
-    <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=C++&logoColor=#4479A1"/>
-    <img src="https://img.shields.io/badge/MariaDB-4479A1?style=plastic&logo=C++&logoColor=#4479A1"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=C++&logoColor=#47A248"/>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=C++&logoColor=#005571"/>
-    <img src="https://img.shields.io/badge/Redis-994444?style=plastic&logo=C++&logoColor=#994444"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=C++&logoColor=#FFCA28"/>  
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+      <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+      <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+      <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-994444?style=for-the-badge&logo=redis&logoColor=white">
   </div>
   <h4>Monitoring</h4>
   <div>
-    <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=C++&logoColor=#005571"/>
-  </div>
-  <h4>Frontend</h4>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=C++&logoColor=#000000"/>
+      <img src="https://img.shields.io/badge/Kibana-FF3366?style=for-the-badge&logo=kibana&logoColor=white">
   </div>
   <h4>Tools</h3>
   <div>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=C++&logoColor=#2496ED"/>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=C++&logoColor=#5C2D91"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=C++&logoColor=#007ACC"/>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=C++&logoColor=#2C2255"/>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=C++&logoColor=#3DDC84"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   </div>
   <h4>Commucation Tools</h4>
   <div>
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=C++&logoColor=#000000"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=C++&logoColor=#4A154B"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </div>
   <h4>Others</h4>
   <div>
-    <img src="https://img.shields.io/badge/Dart-02569B?style=plastic&logo=C++&logoColor=#02569B"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=C++&logoColor=#02569B"/>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab-F05030?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
   </div>
 </div>
 
