@@ -31,7 +31,7 @@
 <div>
   <h4>Programming Language</h4>
   <div>
-      <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=Java&logoColor=white">
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
   <h4>Backend</h4>
@@ -41,7 +41,7 @@
   </div>
   <h4>Cloud Platforms</h4>
   <div>
-    <img src="https://img.shields.io/badge/amazon aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
   </div>
   <h4>Database</h4>
   <div>
