@@ -86,7 +86,7 @@
 |레포지토리|내용|기간|계획서|
 |------|-----|---|:---:|
 |🔍[**IAMPORT**](https://github.com/pastjung/Payment-Iamport)|토스페이 테스트 결제 구현|2024.10.26 ~ 2024.10.27|[자세히](https://pastjung.notion.site/Iamport-2024-10-26-2024-10-27-158ef948eae4807bac5acb15e81a6a3e?pvs=4)|
-|🔍[**소셜로그인**](https://github.com/pastjung/Social-Login)|카카오, 네이버, 구글 소셜로그인 구현|2024.10.17 ~ 2024.10.24, 2024.11.5 ~ 2024.11.12|[자세히](https://pastjung.notion.site/Social-Login-Kakao-Naver-Google-2024-10-17-2024-10-24-2024-11-5-2024-11-12-158ef948eae4809e94c4c6a7faceb4e5?pvs=4)|
+|🔍[**소셜로그인**](https://github.com/pastjung/Social-Login)|카카오, 네이버, 구글 소셜로그인 구현|2024.10.17 ~ 2024.11.12|[자세히](https://pastjung.notion.site/Social-Login-Kakao-Naver-Google-2024-10-17-2024-10-24-2024-11-5-2024-11-12-158ef948eae4809e94c4c6a7faceb4e5?pvs=4)|
 |🔍**HTTPS 연결**|배포한 서비스 HTTPS로 보안 강화하는 방법|2024.10.20|[자세히](https://pastjung.notion.site/HTTPS-2024-10-10-158ef948eae480c595cdfd45c34020b9?pvs=4)|
 |🔍**서버 포트번호 지우기**|ALB를 사용해 배포한 서비스의 포트번호 감추는 방법|2024.10.10|[자세히](https://pastjung.notion.site/2024-10-10-11bef948eae480e5b953ecde21106a1d?pvs=4)|
 |🔍**도메인 연결**|도메인 등록 방법|2024.10.20|[자세히](https://pastjung.notion.site/AWS-2024-10-10-158ef948eae480628341eb68a74cbe2f?pvs=4)|
