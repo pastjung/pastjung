@@ -2,10 +2,10 @@
 ## :blush: Welcome to My Github!
 ✨ Hi! I'm **Jaehyun Jung** from South Korea
 
-✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/106ef948eae480bb90b1e8e16cba5a74?pvs=4) Badge for details
+✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" height="17"/>](https://pastjung.notion.site/106ef948eae480bb90b1e8e16cba5a74?pvs=4) Badge for details
 
 ## :email: Contanct
-[![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" height="17"/> : chwogus0303@naver.com
 
 ## 📝 Github Stats
 <!-- Most Used Language -->
