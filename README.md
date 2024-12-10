@@ -1,8 +1,7 @@
 
 ## 🙌 Welcome My Github! :blush:
-💁 **Portfolio** : [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4)
-
-:memo: **Blog** : [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@chwogus/posts)
+✨ Hi! I'm Junhyeok Yun from South Korea
+✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4) Badge for details
 
 ## :email: Contanct
 [![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
