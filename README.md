@@ -1,7 +1,8 @@
 
-## 🙌 Welcome My Github! :blush:
-✨ Hi! I'm Junhyeok Yun from South Korea
-✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4) Badge for details
+## :blush: Welcome to My Github!
+✨ Hi! I'm **Jaehyun Jung** from South Korea
+
+✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/106ef948eae480bb90b1e8e16cba5a74?pvs=4) Badge for details
 
 ## :email: Contanct
 [![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
