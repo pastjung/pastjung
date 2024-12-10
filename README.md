@@ -4,7 +4,8 @@
 
 :memo: **Blog** : [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@chwogus/posts)
 
-:email: **Email** : [![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
+## :email: Contanct
+[![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
 
 ## 📝 Github Stats
 <!-- Most Used Language -->
@@ -21,7 +22,7 @@
 <!-- Solved.ac -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=chwogus)](https://solved.ac/chwogus)
 
-## 📚 Skills
+## 🔧 Skills
 <div>
   <h4>Programming Language</h4>
   <div>
