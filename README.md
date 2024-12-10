@@ -21,23 +21,6 @@
 <!-- Solved.ac -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=chwogus)](https://solved.ac/chwogus)
 
-## 🌴Projects
-|레포지토리|내용|기간|프로젝트 계획서|
-|------|---|---|:---:|
-|🔍[**Open-Lawyer**](https://github.com/InhaCapstone2024/Open-Lawyer)|AI 기반 재판 판결 승소 확률 예측 챗봇 서비스|2024.09 ~ 2024.12|[자세히](https://www.notion.so/pastjung/Open-Lawyer-2024-09-04-2024-12-17-c9d8e13a79e34160857ccc93b183f8f8?pvs=4)|
-|🐤[**Markcloud Internship**](https://github.com/pastjung/Markcloud-Casefile-Crawling-Remind)|미국 지식 재산권 상표 데이터 크롤링 및 CSV 파일 저장|2024.08||
-|🔥[**Markcloud Internship**](https://github.com/pastjung/Markcloud_USPTO-Search-Remind)|미국 지식 재산권 상표에 대한 데이터 검색 시스템|2024.07 ~ 2024.08||
-|🐶[**Wuzuzu**](https://github.com/pastjung/NBC_WuZuZu)|반려동물을 위한 커뮤니티|2024.03~2024.04|[자세히](https://www.notion.so/pastjung/WuZuZu-2024-03-26-2024-04-30-107ef948eae4805fa97bea6cd43caf84?pvs=4)|
-
-## ⭐Experiences
-|활동|내용|기간|
-|------|---|---|
-|**멀티캠퍼스 코딩테스트 경진대회**|2024 멀티캠퍼스 코딩테스트 경진대회 참여 (PCCP)|2024.12|
-|**Markcloud Intership**|마크클라우드 한달인턴|2024.07 ~ 2024.08|
-|**인하대학교 해커톤**|2024 INHA SW NET-ZER 공동 해커톤 참여|2024.07|
-|**내일배움캠프 부트캠프**|웹개발 종합반 KDT 실무형 스프링 백엔드 엔지니어 양성과정 4회차|2023.12 ~ 2024.05|
-|**현업자 멘토링**|네이버웹툰, 메리츠증권, KB카드 현업자와의 멘토링 (잇다)|2022.12|
-
 ## 📚 Skills
 <div>
   <h4>Programming Language</h4>
@@ -90,6 +73,31 @@
     <img src="https://img.shields.io/badge/dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
   </div>
 </div>
+
+## 🐔Projects
+|레포지토리|내용|기간|프로젝트 계획서|
+|------|---|---|:---:|
+|🔍[**Open-Lawyer**](https://github.com/InhaCapstone2024/Open-Lawyer)|AI 기반 재판 판결 승소 확률 예측 챗봇 서비스|2024.09 ~ 2024.12||
+|🐤[**Markcloud Internship**](https://github.com/pastjung/Markcloud-Casefile-Crawling-Remind)|미국 지식 재산권 상표 데이터 크롤링 및 CSV 파일 저장|2024.08||
+|🔥[**Markcloud Internship**](https://github.com/pastjung/Markcloud_USPTO-Search-Remind)|미국 지식 재산권 상표에 대한 데이터 검색 시스템|2024.07 ~ 2024.08||
+|🐶[**Wuzuzu**](https://github.com/pastjung/NBC_WuZuZu)|반려동물을 위한 커뮤니티|2024.03~2024.04|[자세히](https://www.notion.so/pastjung/WuZuZu-2024-03-26-2024-04-30-107ef948eae4805fa97bea6cd43caf84?pvs=4)|
+
+## 🐣Side Projects
+|레포지토리|내용|기간|프로젝트 계획서|
+|------|---|---|:---:|
+|🔍[**ㅇㅇ**](ㅇㅇㅇ)|ㅇㅇㅇ|2024.05.31 ~ 2024.06.01|[자세히](ㅇㅇㅇ)|
+|🔍[**소셜로그인**](https://github.com/pastjung/Social-Login)|카카오, 네이버, 구글 소셜로그인 구현|2024.10.17 ~ 2024.10.24, 2024.11.5 ~ 2024.11.12|[자세히](https://pastjung.notion.site/Social-Login-Kakao-Naver-Google-2024-10-17-2024-10-24-2024-11-5-2024-11-12-158ef948eae4809e94c4c6a7faceb4e5?pvs=4)|
+|🔍[**MSA & DDD 설계**](https://github.com/pastjung/Architecture-MSA-DDD)|MSA & DDD 방식으로 프로젝트를 개발 과정 학습|2024.08.19 ~ 2024.08.23|[자세히](https://pastjung.notion.site/Architecture-MSA-DDD-2024-08-19-2024-08-23-11bef948eae4802abc8efa46fb87ef96?pvs=4)|
+|🔍[**테스트코드**](https://github.com/pastjung/SpringBoot_testcode)|Spring Boot 테스트 코드 작성 방법 학습|2024.03.31, 05.31 ~ 2024.06.01|[자세히](https://pastjung.notion.site/Springboot-2024-03-31-2024-05-31-2024-06-01-107ef948eae48017b005f4dee7774f83?pvs=4)|
+
+## ⭐Experiences
+|활동|내용|기간|
+|------|---|---|
+|**멀티캠퍼스 코딩테스트 경진대회**|2024 멀티캠퍼스 코딩테스트 경진대회 참여 (PCCP)|2024.12|
+|**Markcloud Intership**|마크클라우드 한달인턴|2024.07 ~ 2024.08|
+|**인하대학교 해커톤**|2024 INHA SW NET-ZER 공동 해커톤 참여|2024.07|
+|**내일배움캠프 부트캠프**|웹개발 종합반 KDT 실무형 스프링 백엔드 엔지니어 양성과정 4회차|2023.12 ~ 2024.05|
+|**현업자 멘토링**|네이버웹툰, 메리츠증권, KB카드 현업자와의 멘토링 (잇다)|2022.12|
     
 ***
 <!-- 방문자 통계 -->
