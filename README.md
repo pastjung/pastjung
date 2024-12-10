@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pastjung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-## Problem Solving
+## 🏅 Problem Solving
 <!-- Solved.ac -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=chwogus)](https://solved.ac/chwogus)
 
@@ -46,6 +46,13 @@
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
       <img src="https://img.shields.io/badge/Redis-994444?style=for-the-badge&logo=redis&logoColor=white">
   </div>
+  <h4>Etc..</h4>
+      <img src="https://img.shields.io/badge/Kibana-FF3366?style=for-the-badge&logo=kibana&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+      <img src="https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<!-- 주석 내용
   <h4>Monitoring</h4>
   <div>
       <img src="https://img.shields.io/badge/Kibana-FF3366?style=for-the-badge&logo=kibana&logoColor=white">
@@ -72,6 +79,7 @@
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
   </div>
+주석 끝!-->
 </div>
 
 ## 🐔Projects
