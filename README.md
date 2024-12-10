@@ -1,10 +1,11 @@
 
 ## 🙌 Welcome My Github! :blush:
-💁 **My Portfolio** : [Notion-Page](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4)
+💁 **Portfolio** : [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://pastjung.notion.site/68a984641f2646928d4838c4ecc0c60f?pvs=4)
 
-:memo: **My Blog** : [Velog-Page](https://velog.io/@chwogus/posts)
 
-:email: **My Email** : chwogus0303@naver.com
+:memo: **Blog** : [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@chwogus/posts)
+
+:email: **Email** : [![Email Me](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:chwogus0303@naver.com)
 
 ## 📝 My Github
 <a href="https://github.com/anuraghazra/github-readme-stats">
