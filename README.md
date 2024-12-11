@@ -86,7 +86,7 @@
 ## 🐔Projects
 |레포지토리|내용|기간|계획서|
 |------|---|---|:---:|
-|🔍[**Open-Lawyer**](https://github.com/InhaCapstone2024/Open-Lawyer) (4인)|AI 기반 재판 판결 승소 확률 예측 챗봇 서비스|2024.09 ~ 2024.12|[자세히](https://www.notion.so/pastjung/Open-Lawyer-2024-09-04-2024-12-17-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
+|🔍[**Open-Lawyer**](https://github.com/InhaCapstone2024/Open-Lawyer) (4인)|AI 기반 재판 판결 승소 확률 예측 챗봇 서비스|2024.09 ~ 2024.12|[자세히](https://pastjung.notion.site/Open-Lawyer-2024-09-04-2024-12-17-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
 |🐤[**Markcloud Internship**](https://github.com/pastjung/Markcloud-Casefile-Crawling-Remind)|미국 지식 재산권 상표 데이터 크롤링 및 CSV 파일 저장|2024.08||
 |🔥[**Markcloud Internship**](https://github.com/pastjung/Markcloud_USPTO-Search-Remind)|미국 지식 재산권 상표에 대한 데이터 검색 시스템|2024.07 ~ 2024.08||
 |🐶[**Wuzuzu**](https://github.com/pastjung/NBC_WuZuZu) (5인)|반려동물을 위한 커뮤니티|2024.03 ~ 2024.04|[자세히](https://pastjung.notion.site/WuZuZu-2024-03-26-2024-04-30-159ef948eae480429983fcdbd37b562d?pvs=4)|
