@@ -13,16 +13,16 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
-## 📝 Github Stats
-<!-- Most Used Language -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
 
+## 📝 Github Stats
 <!-- Github Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=pastjung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+<!-- Most Used Language -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&exclude_repo=Markcloud_USPTO-Download-Unzipped,Markcloud-Casefile-Crawling,Markcloud_Basic-Structure,Markcloud_USPTO-Search,Markcloud_USPTO-SignIn-SignUp" width=30% />
+</a>    
 
 ## 🏅 Problem Solving
 <!-- Solved.ac -->
@@ -136,6 +136,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastjung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
 
-<!-- Most Used Language 주석석
+<!-- Most Used Language 주석
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
 -->
