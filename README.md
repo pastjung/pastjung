@@ -21,7 +21,7 @@
 </a>
 <!-- Most Used Language -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&exclude_repo=Markcloud_USPTO-Download-Unzipped,Markcloud-Casefile-Crawling,Markcloud_Basic-Structure,Markcloud_USPTO-Search,Markcloud_USPTO-SignIn-SignUp" width=30% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&exclude_repo=FastAPI_Practice,FastAPI_JumpToFastAPI_Practice,FastAPI_Dockerfile_Practice,Markcloud_Basic-Structure,Markcloud_USPTO-Download-Unzipped,Markcloud-Casefile-Crawling,Markcloud_USPTO-Search,Markcloud_USPTO-SignIn-SignUp" width=30% />
 </a>    
 
 ## 🏅 Problem Solving
