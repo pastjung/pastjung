@@ -129,7 +129,7 @@
   </div>
 </div>
 
-
+<!-- 리드미 아이콘 : https://simpleicons.org/?q=gmail -->
 
 <!-- Contribution Graph 주석
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
