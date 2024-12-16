@@ -136,7 +136,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastjung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
 
-<!-- Most Used Language 주석
+<!-- Most Used Language 주석 : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
