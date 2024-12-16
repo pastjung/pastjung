@@ -2,14 +2,16 @@
 ## :blush: Welcome to My Github!
 ✨ Hi! I'm **Jaehyun Jung** from South Korea
 
-✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white" height="20"/>](https://xn--2v5bnh859a.my.canva.site/) Badge for details
+✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/) Badge for details
 
 ## :email: Contanct
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" height="17"/>](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%A0%95-743393342/)
-
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" height="17"/> : chwogus0303@naver.com
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="17"/> : chwogus0303@gmail.com
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%A0%95-743393342/)
+<a href="mailto:chwogus0303@naver.com" target="_blank">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</a>
+<a href="mailto:chwogus0303@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 ## 📝 Github Stats
 <!-- Most Used Language -->
