@@ -113,8 +113,10 @@
 ## ⭐Experiences
 |활동|내용|기간|
 |------|---|---|
-|**정보처리기사 실기**|준비중|2025.03 ~ (~ing)|
-|**토익**|준비중|2025.02 ~ (~ing)|
+|**SQLD**|2025 5월 SQLD (준비 예정)|2025.05|
+|[**AWS SUMMIT SEOUL**](https://aws.amazon.com/ko/events/summits/seoul/?trk=13340a9f-28db-4a17-b1c2-d30858ba934f)|참여 예정|2025.05.14 ~ 15|
+|**정보처리기사 실기**|2025 4월 정보처리기사 실기 (결과 발표 대기중)|2025.04|
+|**토익(TOEIC)**|준비중|2025.02 ~ (~ing)|
 |**정보처리기사 필기**|2025 2월 정보처리기사 필기 합격|2025.01 ~ 2025.02|
 |**인하대학교 캡스톤 디자인**|2024 인하대학교 하반기 캡스톤 디자인 참여|2024.09 ~ 2024.12|
 |**멀티캠퍼스 코딩테스트 경진대회**|2024 멀티캠퍼스 코딩테스트 경진대회 참여 (PCCP)|2024.12|
@@ -123,15 +125,8 @@
 |**내일배움캠프 부트캠프**|웹개발 종합반 KDT 실무형 스프링 백엔드 엔지니어 양성과정 4회차|2023.12 ~ 2024.05|
 |**현업자 멘토링**|네이버웹툰, 메리츠증권, KB카드 현업자와의 멘토링 (잇다)|2022.12|
     
-***
-<!-- 방문자 통계 -->
-<div style="display: flex; justify-content: center;">
-  <div>
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpastjung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PastJung&edge_flat=false" alt="Hits">
-    </a>
-  </div>
-</div>
+
+
 
 <!-- 리드미 아이콘 : https://simpleicons.org/?q=gmail -->
 
