@@ -113,7 +113,7 @@
 ## ⭐Experiences
 |활동|내용|기간|
 |------|---|---|
-|**SQLD**|2025 5월 SQLD (준비 예정)|2025.05|
+|**AWS TechCamp**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/seminars/aws-techcamp/))|2025.06.24, 25, 26|
 |**AWS SUMMIT SEOUL**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/summits/seoul/?trk=13340a9f-28db-4a17-b1c2-d30858ba934f))|2025.05.14, 15|
 |**정보처리기사 실기**|2025 4월 정보처리기사 실기 (결과 발표 대기중)|2025.04|
 |**정보처리기사 필기**|2025 2월 정보처리기사 필기 합격|2025.01 ~ 2025.02|
