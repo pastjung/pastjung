@@ -12,7 +12,13 @@
 <!-- Most Used Language -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&exclude_repo=FastAPI_Practice,FastAPI_JumpToFastAPI_Practice,FastAPI_Dockerfile_Practice,Markcloud_Basic-Structure,Markcloud_USPTO-Download-Unzipped,Markcloud-Casefile-Crawling,Markcloud_USPTO-Search,Markcloud_USPTO-SignIn-SignUp&langs_count=4" width=30% />
-</a>    
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pastjung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="560" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&langs_count=4" width="300" />
+
+
 
 ## 🏅 Problem Solving
 <!-- Solved.ac -->
@@ -103,6 +109,7 @@
 ## ⭐Experiences
 |활동|내용|기간|
 |------|---|---|
+|**SSAFY**|15기 Data 트랙 합격|2026.01 ~ ing|
 |**SQLD**|2025년 8월 제 58회 합격|2025.07 ~ 2025.08|
 |**AWS TechCamp**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/seminars/aws-techcamp/))|2025.06.24, 25, 26|
 |**AWS SUMMIT SEOUL**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/summits/seoul/?trk=13340a9f-28db-4a17-b1c2-d30858ba934f))|2025.05.14, 15|
