@@ -2,7 +2,7 @@
 ## :blush: Welcome to My Github!
 ✨ Hi! I'm **Jaehyun Jung** from South Korea
 
-✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/portfolio) Badge for details
+✨ Please refer to [<img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/portfolio) [<img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/be-resume) Badge for details
 
 <!-- Github Stats 
 ## 📝 Github Stats
