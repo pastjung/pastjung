@@ -105,7 +105,9 @@
 ## ⭐Experiences
 |활동|내용|기간|
 |------|---|---|
-|**SSAFY**|15기 Data 트랙 합격|2026.01 ~ ing|
+|**ADsP**|2026 제 49회 데이터 분석 준전문가 합격|2026.04 ~ 2026.05|
+|**빅데이터분석기사 필기**|2026 제 12회 필기 시험 합격|2026.03 ~ 2026.04|
+|**삼성청년SW·AI아카데미**|15기 Data 트랙, Class Assistant 활동, 월간 베스트 선정|2026.01 ~ 진행중|
 |**SQLD**|2025년 8월 제 58회 합격|2025.07 ~ 2025.08|
 |**AWS TechCamp**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/seminars/aws-techcamp/))|2025.06.24, 25, 26|
 |**AWS SUMMIT SEOUL**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/summits/seoul/?trk=13340a9f-28db-4a17-b1c2-d30858ba934f))|2025.05.14, 15|
