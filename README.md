@@ -1,4 +1,4 @@
-![Jaehyun Jung](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jaehyun%20Jung&fontSize=45&fontColor=FFFFFF&fontAlignY=36&descSize=18&descAlignY=58&animation=fadeIn)
+![Jaehyun](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jaehyun&fontSize=45&fontColor=FFFFFF&fontAlignY=36&descSize=18&descAlignY=58&animation=fadeIn)
 <div align="center">
   <p>
     <a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a>
