@@ -56,8 +56,8 @@
 > **웹캠과 눈동작으로 즐기는 소셜 마이크로 브레이크 서비스**
 
 - **기간**: 2026.07.13 ~ 2026.08.10 · **역할**: 팀장 · PM · Infra/DevOps
-- Jira로 MVP와 일정을 관리하고, 개발 기준과 Docker Compose·Nginx·Jenkins·GitLab Webhook 기반 자동 배포 환경을 구축했습니다.
-- OpenVidu/LiveKit 영상·음성 통신과 WebSocket 등 Backend·Frontend 공통 난제를 해결해 6명 팀의 완주를 이끌었으며, SSAFY Best Member로 선정되었습니다.
+- Jira로 MVP와 일정을 관리하고, 개발 기준과 **Docker Compose·Nginx·Jenkins·GitLab Webhook 기반 자동 배포 환경을 구축**했습니다.
+- OpenVidu/LiveKit 영상·음성 통신과 WebSocket 등 Backend·Frontend 공통 난제를 해결해 6명 팀의 완주를 이끌었으며, **SSAFY Best Member로 선정**되었습니다.
 - **Tech**: `Java` `Spring Boot` `Vue.js` `PostgreSQL` `Redis` `WebSocket` `OpenVidu` `LiveKit` `Docker Compose` `Nginx` `Jenkins` `GitLab Webhook` `AWS EC2` `Jira`
 
 ### 💵 [BondEZ](https://github.com/pastjung/Bond_EZ)&emsp;[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/BondEZ-2026-05-08-2026-06-26-3d9ef948eae4807090bff1b86ea02c9f?source=copy_link)
@@ -66,7 +66,7 @@
 
 - **기간**: 2026.05.08 ~ 2026.06.26 · **역할**: Frontend & Backend · Data Pipeline 연계
 - Django REST Framework와 Vue.js로 채권 검색·비교·포트폴리오 API 및 화면을 구현하고, Elasticsearch 장애 시 PostgreSQL로 전환하는 검색 Fallback을 설계했습니다.
-- Airflow·Kafka·Spark·Flink·HDFS 파이프라인 구조를 공동 설계하고, 적재 데이터를 Django 모델과 API에 연결했습니다. 화면 맥락과 DB 데이터를 활용하는 RAG 챗봇도 구현했습니다.
+- **Airflow·Kafka·Spark·Flink·HDFS 파이프라인 구조를 설계**하고, 적재 데이터를 Django 모델과 API에 연결했습니다. 화면 맥락과 DB 데이터를 활용하는 RAG 챗봇도 구현했습니다.
 - **Core Tech**: `Python` `Django REST Framework` `Vue.js` `PostgreSQL` `Elasticsearch` `Logstash` `Gemini` `LangChain` `Docker Compose`
 - **Data Pipeline**: `Airflow` `Kafka` `Spark` `Flink` `HDFS`
 
@@ -85,7 +85,7 @@
 
 - **기간**: 2024.03.26 ~ 2024.04.30 · **역할**: Backend · Infra/DevOps
 - 거래·주문·찜 도메인을 구현하고, 거래 목록 조회에서 발생한 **N+1 문제를 QueryDSL 기반 조인 쿼리로 해결**했습니다. UUID·S3 기반 이미지 관리는 공통 모듈로 설계했습니다.
-- Redis 기반 재고 동시성 처리와 부하 테스트를 수행해 병목을 분석했습니다. 이후 SQS FIFO 구조로 전환해 프로젝트 기록 기준 평균 응답시간을 `2,283ms → 542ms`로 약 **76% 개선**했습니다.
+- Redis 기반 재고 **동시성 처리**와 **부하 테스트**를 수행해 병목을 분석했습니다. 이후 SQS FIFO 구조로 전환해 프로젝트 기록 기준 평균 응답시간을 `2,283ms → 542ms`로 약 **76% 개선**했습니다.
 - **GitHub Actions·S3·CodeDeploy·EC2를 연결해 반복 가능한 배포 파이프라인을 구축**했습니다.
 - **Tech**: `Java` `Spring Boot` `Spring Security` `JPA` `QueryDSL` `MySQL` `Redis` `AWS S3` `AWS SQS` `AWS EC2` `AWS RDS` `AWS CodeDeploy` `GitHub Actions` `JMeter`
 
