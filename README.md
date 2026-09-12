@@ -16,7 +16,7 @@
 
 - ☁️ **Infra/DevOps** — GitHub Actions 기반의 `EC2·CodeDeploy` 배포와 `ECR·ECS Fargate` 컨테이너 배포, GitLab Webhook 기반의 `Jenkins·Docker Compose` 배포까지 프로젝트 환경에 맞는 세 가지 CI/CD 파이프라인을 구축했습니다.
 
-- 📊 **Data Engineering** — 약 1,800만 건·40GB 데이터의 수집 시간을 50%, 검색 응답시간을 80% 개선했습니다. 이후 금융 데이터 파이프라인을 공동 설계하고 적재된 데이터를 검색·API·RAG 서비스로 연결했습니다.
+- 📊 **Data Engineering** — 약 1,800만 건·40GB 데이터의 수집 시간을 50%, 검색 응답시간을 80% 개선했습니다. 이후 금융 데이터 파이프라인을 설계하고 적재된 데이터를 검색·API·RAG 서비스로 연결했습니다.
 
 - 📝 **Documentation & Sharing** — 프로젝트 경험이 없는 팀원을 위해 전체 흐름과 산출물 템플릿을 제작해 공유했습니다. 또한 Jenkins 기반 CI/CD 구축 과정을 문서화해 인프라 지식이 특정 담당자에게 종속되지 않고 팀이 함께 이해하고 운영할 수 있도록 했습니다.
 
