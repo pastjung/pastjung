@@ -12,11 +12,20 @@
 
 > **백엔드에서 시작해 인프라와 데이터 엔지니어링으로 영역을 넓히며, 문제의 원인을 서비스 전체 흐름에서 해결하고 그 과정을 팀의 지식으로 남기는 개발자 정재현입니다.**
 
-- 🧩 **Backend** — 거래 목록의 N+1 조회 구조를 QueryDSL로 개선하고 재고 동시성 문제를 분석했습니다. 팀의 SQS FIFO 전환을 통해 프로젝트 기록 기준 평균 응답시간을 약 76% 단축했습니다.
+- 🧩 **Backend**
+    - Spring Boot로 소셜로그인·거래·주문·찜 도메인을 구현하고, 거래 목록의 N+1 조회 문제를 QueryDSL 기반 조인 쿼리로 해결했습니다.
+    - Redis 기반 재고 동시성 처리를 구현하고 병목을 분석했습니다. 이후 팀의 SQS FIFO 전환을 통해 프로젝트 기록 기준 평균 응답시간을 **2,283ms → 542ms로 약 76% 단축**했습니다.
+    - Spring Boot를 인증과 핵심 도메인 로직을 담당하는 메인 서버로, FastAPI를 비동기 처리 및 AI 서비스 서빙 서버로 분리했습니다. Spring Boot에서 FastAPI를 비동기로 호출하도록 구성하고 두 서버 간 API 요청·응답 흐름을 연계했습니다.
 
-- ☁️ **Infra/DevOps** — GitHub Actions 기반의 `EC2·CodeDeploy` 배포와 `ECR·ECS Fargate` 컨테이너 배포, GitLab Webhook 기반의 `Jenkins·Docker Compose` 배포까지 프로젝트 환경에 맞는 세 가지 CI/CD 파이프라인을 구축했습니다.
+- ☁️ **Infra/DevOps**
+    - GitHub Actions·S3·CodeDeploy·EC2를 연결해 코드 변경부터 배포까지 자동화한 CI/CD 파이프라인을 구축했습니다.
+    - React·Spring Boot·FastAPI를 독립된 컨테이너로 구성하고, GitHub Actions에서 이미지를 ECR에 배포해 ECS Fargate에서 실행했습니다. ALB·CloudFront·RDS·CloudWatch Logs를 연계해 서비스 운영 환경을 구성했습니다.
+    - GitLab Webhook·Jenkins·Docker Compose·Nginx를 연결해 멀티 컨테이너 서비스를 자동 배포하고, 구축 과정을 문서화해 팀이 함께 운영할 수 있도록 했습니다.
 
-- 📊 **Data Engineering** — 약 1,800만 건·40GB 데이터의 수집 시간을 50%, 검색 응답시간을 80% 개선했습니다. 이후 금융 데이터 파이프라인을 설계하고 적재된 데이터를 검색·API·RAG 서비스로 연결했습니다.
+- 📊 **Data Engineering**
+    - 약 1,800만 건·40GB 규모의 데이터 수집·전처리에 비동기 I/O와 멀티프로세싱을 적용해 처리 시간을 **약 5시간 → 2시간 30분으로 50% 단축**했습니다. Selenium Headless와 멀티스레딩으로 JavaScript 기반 Case-file 데이터도 병렬 수집했습니다.
+    - MongoDB 정규식 검색의 한계를 분석하고 Elasticsearch의 `edge_ngram`·`fuzziness`·`search_after`를 적용해 부분 일치, 오타 허용 및 대용량 페이지네이션 검색을 구현했습니다. 검색 응답시간을 **5초 이상 → 1초 미만으로 약 80% 개선**했습니다.
+    - 약 29,000건의 채권·뉴스·경제지표를 처리하는 Airflow·Kafka·Spark·Flink·HDFS 파이프라인을 공동 설계했습니다. 적재 데이터를 Elasticsearch·PostgreSQL 검색과 Django API, RAG 서비스로 연결했습니다.
 
 - 📝 **Documentation & Sharing** — 프로젝트 경험이 없는 팀원을 위해 전체 흐름과 산출물 템플릿을 제작해 공유했습니다. 또한 Jenkins 기반 CI/CD 구축 과정을 문서화해 인프라 지식이 특정 담당자에게 종속되지 않고 팀이 함께 이해하고 운영할 수 있도록 했습니다.
 
@@ -89,7 +98,7 @@
 > **반려동물 장소·중고거래·커뮤니티·채팅을 연결한 통합 서비스**
 
 - **기간**: 2024.03.26 ~ 2024.04.30 · **역할**: Backend · Infra/DevOps
-- 거래·주문·찜 도메인과 QueryDSL 조회 구조를 구현하고, UUID·S3 기반 이미지 관리를 공통 모듈로 설계했습니다.
+- 거래·주문·찜 도메인을 구현하고, 거래 목록 조회에서 발생한 **N+1 문제를 QueryDSL 기반 조인 쿼리로 해결**했습니다. UUID·S3 기반 이미지 관리는 공통 모듈로 설계했습니다.
 - Redis 기반 재고 동시성 처리와 부하 테스트를 수행해 병목을 분석했습니다. 이후 SQS FIFO 구조로 전환해 프로젝트 기록 기준 평균 응답시간을 `2,283ms → 542ms`로 약 76% 개선했습니다.
 - GitHub Actions·S3·CodeDeploy·EC2를 연결해 반복 가능한 배포 파이프라인을 구축했습니다.
 - **Tech**: `Java` `Spring Boot` `Spring Security` `JPA` `QueryDSL` `MySQL` `Redis` `AWS S3` `AWS SQS` `AWS EC2` `AWS RDS` `AWS CodeDeploy` `GitHub Actions` `JMeter`
@@ -109,6 +118,7 @@
 - 2026.01 ~ 진행중 | 삼성청년SW·AI아카데미 15기 Data 트랙
 - 2025.06 | AWS TechCamp 2025
 - 2025.05 | AWS Summit Seoul 2025
+- 2023.12 ~ 2024.06 | 웹개발 종합반 KDT 실무형 스프링 백엔드 엔지니어 양성과정 4회차
 - 2018.03 ~ 2025.02 | 인하대학교 컴퓨터공학과
 - 2015.03 ~ 2018.02 | 환일고등학교
 
