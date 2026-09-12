@@ -1,14 +1,8 @@
 ![Jaehyun](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jaehyun&fontSize=45&fontColor=FFFFFF&fontAlignY=36&descSize=18&descAlignY=58&animation=fadeIn)
-<div align="center">
-  <p>
-    <a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a>
-    <a href="https://xn--2v5bnh859a.my.canva.site/portfolio"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio" /></a>
-  </p>
-</div>
 
 ---
 
-## 💫 About Me
+## 💫 About Me&emsp;<a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a> <a href="https://xn--2v5bnh859a.my.canva.site/portfolio"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio" /></a>
 
 **백엔드 개발에서 시작해 인프라와 데이터 엔지니어링까지 영역을 넓혀가며, 배운 내용을 프로젝트에서 검증하고 팀의 지식으로 남기는 개발자 정재현입니다.**
 
