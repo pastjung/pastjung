@@ -1,139 +1,126 @@
+![Jaehyun Jung](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jaehyun%20Jung&fontSize=45&fontColor=FFFFFF&fontAlignY=36&descSize=18&descAlignY=58&animation=fadeIn)
 
-## :blush: Welcome to My Github!
-✨ Hi! I'm **Jaehyun Jung** from South Korea
-
-✨ Please refer to [<img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/be-resume) [<img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=Canva&logoColor=white"/>](https://xn--2v5bnh859a.my.canva.site/portfolio) Badge for details
-
-<!-- Github Stats 
-## 📝 Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=pastjung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a> -->
-
-<!-- Most Used Language
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=compact&exclude_repo=FastAPI_Practice,FastAPI_JumpToFastAPI_Practice,FastAPI_Dockerfile_Practice,Markcloud_Basic-Structure,Markcloud_USPTO-Download-Unzipped,Markcloud-Casefile-Crawling,Markcloud_USPTO-Search,Markcloud_USPTO-SignIn-SignUp&langs_count=4" width=30% />
-</a>  -->
-
-
-## 🏅 Problem Solving
-<!-- Solved.ac -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=chwogus)](https://solved.ac/chwogus)
-
-## 🔧 Skills
-<div>
-  <h4>Programming Language</h4>
-  <div>
-      <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
-  <h4>Backend</h4>
-  <div>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
-  </div>
-  <h4>Cloud Platforms</h4>
-  <div>
-    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
-  </div>
-  <h4>Database</h4>
-  <div>
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-      <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-      <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-      <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-      <img src="https://img.shields.io/badge/Redis-994444?style=for-the-badge&logo=redis&logoColor=white">
-  </div>
-  <h4>Etc..</h4>
-      <img src="https://img.shields.io/badge/Kibana-FF3366?style=for-the-badge&logo=kibana&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-      <img src="https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<!-- 주석 내용
-  <h4>Monitoring</h4>
-  <div>
-      <img src="https://img.shields.io/badge/Kibana-FF3366?style=for-the-badge&logo=kibana&logoColor=white">
-  </div>
-  <h4>Tools</h3>
-  <div>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  </div>
-  <h4>Commucation Tools</h4>
-  <div>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  </div>
-  <h4>Others</h4>
-  <div>
-    <img src="https://img.shields.io/badge/ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/github actions-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab-F05030?style=for-the-badge&logo=gitlab&logoColor=white">
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
-  </div>
-주석 끝!-->
+<div align="center">
+  <p>
+    <a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a>
+    <a href="https://xn--2v5bnh859a.my.canva.site/portfolio"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio" /></a>
+  </p>
 </div>
 
-## 🐔Projects
-|레포지토리|내용|기간|계획서|
-|------|---|---|:---:|
-|🔍[**Open-Lawyer**](https://github.com/InhaCapstone2024/Open-Lawyer) (4인)|AI 기반 재판 판결 승소 확률 예측 챗봇 서비스|2024.09 ~ 2024.12|[자세히](https://pastjung.notion.site/Open-Lawyer-2024-09-04-2024-12-17-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
-|🐤[**Markcloud Internship**](https://github.com/pastjung/Markcloud-Casefile-Crawling-Remind)|미국 지식 재산권 상표 데이터 크롤링 및 CSV 파일 저장|2024.08||
-|🔥[**Markcloud Internship**](https://github.com/pastjung/Markcloud_USPTO-Search-Remind)|미국 지식 재산권 상표에 대한 데이터 검색 시스템|2024.07 ~ 2024.08||
-|🐶[**Wuzuzu**](https://github.com/pastjung/NBC_WuZuZu) (5인)|반려동물을 위한 커뮤니티|2024.03 ~ 2024.04|[자세히](https://pastjung.notion.site/WuZuZu-2024-03-26-2024-04-30-159ef948eae480429983fcdbd37b562d?pvs=4)|
+---
 
-## 🐣Side Projects
-|레포지토리|내용|기간|계획서|
-|------|-----|---|:---:|
-|📲[**소셜로그인**](https://github.com/pastjung/Social-Login)|카카오, 네이버, 구글 소셜로그인 구현|2024.10 ~ 2024.11|[자세히](https://pastjung.notion.site/Social-Login-Kakao-Naver-Google-2024-10-17-2024-10-24-2024-11-5-2024-11-12-158ef948eae4809e94c4c6a7faceb4e5?pvs=4)|
-|💵[**IAMPORT**](https://github.com/pastjung/Payment-Iamport)|토스페이 테스트 결제 구현|2024.10 ~ 2024.10|[자세히](https://pastjung.notion.site/Iamport-2024-10-26-2024-10-27-158ef948eae4807bac5acb15e81a6a3e?pvs=4)|
-|🔐**HTTPS 연결**|배포한 서비스 HTTPS로 보안 강화하는 방법|2024.10|[자세히](https://pastjung.notion.site/HTTPS-2024-10-10-158ef948eae480c595cdfd45c34020b9?pvs=4)|
-|🌅**서버 포트번호 지우기**|ALB를 사용해 배포한 서비스의 포트번호 감추는 방법|2024.10|[자세히](https://pastjung.notion.site/2024-10-10-11bef948eae480e5b953ecde21106a1d?pvs=4)|
-|⛵**도메인 연결**|도메인 등록 방법|2024.10|[자세히](https://pastjung.notion.site/AWS-2024-10-10-158ef948eae480628341eb68a74cbe2f?pvs=4)|
-|🌟[**CICD**](https://github.com/pastjung/CICD_GithubActions-ECS-ECR)|AWS ECR & ECS를 활용한 CICD구축|2024.09 ~ 2024.10|[자세히](https://pastjung.notion.site/CICD-Github-Actions-AWS-ECR-ECS-2024-09-20-2024-10-06-158ef948eae4801b8a22dc3f61e68d28?pvs=4)|
-|👌[**CORS 설정**](https://github.com/pastjung/CORS_VITE-React-SpringBoot)|도커를 사용하는 프로젝트에서 CORS 설정 방법|2024.09|[자세히](https://pastjung.notion.site/CORS-2024-09-20-11bef948eae480359af9cd80ea5ee29f?pvs=4)|
-|👋[**MSA&DDD 설계**](https://github.com/pastjung/Architecture-MSA-DDD)|MSA & DDD 방식으로 프로젝트를 개발 과정 학습|2024.08 ~ 2024.08|[자세히](https://pastjung.notion.site/Architecture-MSA-DDD-2024-08-19-2024-08-23-11bef948eae4802abc8efa46fb87ef96?pvs=4)|
-|🌱[**테스트코드**](https://github.com/pastjung/SpringBoot_testcode)|Spring Boot 테스트 코드 작성 방법 학습|2024.03 & 2024.05 ~ 2024.06|[자세히](https://pastjung.notion.site/Springboot-2024-03-31-2024-05-31-2024-06-01-107ef948eae48017b005f4dee7774f83?pvs=4)|
+## 💫 About Me
 
-## ⭐Experiences
-|활동|내용|기간|
-|------|---|---|
-|**ADsP**|2026 제 49회 데이터 분석 준전문가 합격|2026.04 ~ 2026.05|
-|**빅데이터분석기사 필기**|2026 제 12회 필기 시험 합격|2026.03 ~ 2026.04|
-|**삼성청년SW·AI아카데미**|15기 Data 트랙, Class Assistant 활동, 월간 베스트 선정|2026.01 ~ 진행중|
-|**SQLD**|2025년 8월 제 58회 합격|2025.07 ~ 2025.08|
-|**AWS TechCamp**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/seminars/aws-techcamp/))|2025.06.24, 25, 26|
-|**AWS SUMMIT SEOUL**|온라인 참여 ([링크](https://aws.amazon.com/ko/events/summits/seoul/?trk=13340a9f-28db-4a17-b1c2-d30858ba934f))|2025.05.14, 15|
-|**정보처리기사 실기**|2025 4월 정보처리기사 실기 합격|2025.04|
-|**정보처리기사 필기**|2025 2월 정보처리기사 필기 합격|2025.01 ~ 2025.02|
-|**인하대학교 캡스톤 디자인**|2024 인하대학교 하반기 캡스톤 디자인 참여|2024.09 ~ 2024.12|
-|**멀티캠퍼스 코딩테스트 경진대회**|2024 멀티캠퍼스 코딩테스트 경진대회 참여 (PCCP)|2024.12.09|
-|**Markcloud Intership**|마크클라우드 한달인턴|2024.07.22 ~ 2024.08.16|
-|**인하대학교 해커톤**|2024 INHA SW NET-ZER 공동 해커톤 참여|2024.07|
-|**내일배움캠프 부트캠프**|웹개발 종합반 KDT 실무형 스프링 백엔드 엔지니어 양성과정 4회차|2023.12 ~ 2024.05|
-|**현업자 멘토링**|네이버웹툰, 메리츠증권, KB카드 현업자와의 멘토링 (잇다)|2022.12|
-    
+> **백엔드에서 시작해 인프라와 데이터 엔지니어링으로 영역을 넓히며, 문제의 원인을 서비스 전체 흐름에서 해결하고 그 과정을 팀의 지식으로 남기는 개발자 정재현입니다.**
 
+- 🧩 **Backend** — 거래 목록의 N+1 조회 구조를 QueryDSL로 개선하고 재고 동시성 문제를 분석했습니다. 팀의 SQS FIFO 전환을 통해 프로젝트 기록 기준 평균 응답시간을 약 76% 단축했습니다.
 
+- ☁️ **Infra/DevOps** — GitHub Actions 기반의 `EC2·CodeDeploy` 배포와 `ECR·ECS Fargate` 컨테이너 배포, GitLab Webhook 기반의 `Jenkins·Docker Compose` 배포까지 프로젝트 환경에 맞는 세 가지 CI/CD 파이프라인을 구축했습니다.
 
-<!-- 리드미 아이콘 : https://simpleicons.org/?q=gmail -->
+- 📊 **Data Engineering** — 약 1,800만 건·40GB 데이터의 수집 시간을 50%, 검색 응답시간을 80% 개선했습니다. 이후 금융 데이터 파이프라인을 공동 설계하고 적재된 데이터를 검색·API·RAG 서비스로 연결했습니다.
 
-<!-- Contribution Graph 주석
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastjung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a> -->
+- 📝 **Documentation & Sharing** — 프로젝트 경험이 없는 팀원을 위해 전체 흐름과 산출물 템플릿을 제작해 공유했습니다. 또한 Jenkins 기반 CI/CD 구축 과정을 문서화해 인프라 지식이 특정 담당자에게 종속되지 않고 팀이 함께 이해하고 운영할 수 있도록 했습니다.
 
-<!-- Most Used Language 주석 : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung)
+문제를 해결하는 데서 멈추지 않고, **선택의 근거와 해결 과정을 문서화해 팀이 함께 이해하고 다시 활용할 수 있는 지식으로 만드는 것**을 중요하게 생각합니다.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastjung&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
--->
+---
+
+## 💼 Internship
+
+### 🏢 Markcloud | Backend Developer Intern
+
+[![Internship](https://img.shields.io/badge/-Internship-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/2024-07-22-2024-08-16-3d7ef948eae4819ea7abf50c4ce73492?source=copy_link)
+
+> **약 1,800만 건·40GB 규모의 USPTO 상표 데이터를 수집·저장·검색하는 서비스를 개발했습니다.**
+
+- **기간**: 2024.07.22 ~ 2024.08.16 · **직무**: Backend Developer Intern  
+  **프로젝트 형태**: 1인 프로젝트 · **기여도**: 100%
+- 비동기 I/O와 멀티프로세싱, MongoDB BulkWrite·Upsert를 적용해 데이터 수집·전처리 시간을 **약 5시간에서 2시간 30분으로 50% 단축**했습니다.
+- MongoDB 정규식 검색의 한계를 분석하고 Elasticsearch의 `edge_ngram`·`fuzziness`·`search_after`를 적용해 검색 응답을 **5초 이상에서 1초 미만으로 약 80% 개선**했습니다.
+- Selenium Headless와 멀티스레딩으로 JavaScript 기반 Case-file 데이터를 병렬 수집하고, 재실행 가능한 Docker 환경과 CSV 적재 흐름을 구성했습니다.
+- **Tech**: `Python` `FastAPI` `MongoDB` `MariaDB` `Elasticsearch` `Kibana` `aiohttp` `asyncio` `ProcessPoolExecutor` `ThreadPoolExecutor` `Selenium` `Docker Compose`
+
+[USPTO Search System](https://github.com/pastjung/Markcloud_USPTO-Search-Remind) · [Case-file Crawling](https://github.com/pastjung/Markcloud-Casefile-Crawling-Remind)
+
+---
+
+## 🛠️ Skills & Tools
+
+| 구분 | 🔥 익숙해요 (Comfortable) | 🌱 경험해봤어요 (Familiar) |
+| :--- | :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| **Backend & Frontend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> |
+| **Data Engineering** | <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> | <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" /> <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apacheflink&logoColor=white" alt="Apache Flink" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" /> |
+| **Database & Search** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> |
+| **AWS** | <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2" /> <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS Fargate" /> <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon ECR" /> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS" /> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" /> <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Amazon Route 53" /> | <img src="https://img.shields.io/badge/ALB-8B5CF6?style=flat-square" alt="Application Load Balancer" /> <img src="https://img.shields.io/badge/CloudFront-7C3AED?style=flat-square" alt="Amazon CloudFront" /> <img src="https://img.shields.io/badge/ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white" alt="Amazon ElastiCache" /> <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt="Amazon SQS" /> <img src="https://img.shields.io/badge/ACM-DD344C?style=flat-square" alt="AWS Certificate Manager" /> <img src="https://img.shields.io/badge/CodeDeploy-6B7280?style=flat-square" alt="AWS CodeDeploy" /> |
+| **DevOps & Monitoring** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/GitLab_Webhook-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Webhook" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> | <img src="https://img.shields.io/badge/Harness_Engineering-00ADE4?style=flat-square&logo=harness&logoColor=white" alt="Harness Engineering" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" /> <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" alt="Logstash" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /> |
+
+---
+
+## 🚀 Projects
+
+### 👁️ [eye_dont_care](https://github.com/pastjung/eye_dont_care)
+
+[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/eye-dont-care-2026-07-13-2026-08-10-3d9ef948eae481709b2bc2573e6ecac4?source=copy_link)
+
+> **웹캠과 눈동작으로 즐기는 소셜 마이크로 브레이크 서비스**
+
+- **기간**: 2026.07.13 ~ 2026.08.10 · **역할**: 팀장 · PM · Infra/DevOps
+- Jira로 MVP와 일정을 관리하고, 개발 기준과 Docker Compose·Nginx·Jenkins·GitLab Webhook 기반 자동 배포 환경을 구축했습니다.
+- OpenVidu/LiveKit 영상·음성 통신과 WebSocket 등 Backend·Frontend 공통 난제를 해결해 6명 팀의 완주를 이끌었으며, SSAFY Best Member로 선정되었습니다.
+- **Tech**: `Java` `Spring Boot` `Vue.js` `PostgreSQL` `Redis` `WebSocket` `OpenVidu` `LiveKit` `Docker Compose` `Nginx` `Jenkins` `GitLab Webhook` `AWS EC2` `Jira`
+
+### 💵 [BondEZ](https://github.com/pastjung/Bond_EZ)
+
+[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/BondEZ-2026-05-08-2026-06-26-3d9ef948eae4807090bff1b86ea02c9f?source=copy_link)
+
+> **약 29,000건의 채권·뉴스·경제지표를 연결한 개인 투자자용 금융 정보 포털**
+
+- **기간**: 2026.05.08 ~ 2026.06.26 · **역할**: Frontend & Backend · Data Pipeline 연계
+- Django REST Framework와 Vue.js로 채권 검색·비교·포트폴리오 API 및 화면을 구현하고, Elasticsearch 장애 시 PostgreSQL로 전환하는 검색 Fallback을 설계했습니다.
+- Airflow·Kafka·Spark·Flink·HDFS 파이프라인 구조를 공동 설계하고, 적재 데이터를 Django 모델과 API에 연결했습니다. 화면 맥락과 DB 데이터를 활용하는 RAG 챗봇도 구현했습니다.
+- **Core Tech**: `Python` `Django REST Framework` `Vue.js` `PostgreSQL` `Elasticsearch` `Logstash` `Gemini` `LangChain` `Docker Compose`
+- **Data Pipeline**: `Airflow` `Kafka` `Spark` `Flink` `HDFS`
+
+### ⚖️ [Open-Lawyer](https://github.com/InhaCapstone2024/Open-Lawyer)
+
+[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/Open-Lawyer-AI-2024-09-04-2024-12-17-3d8ef948eae481fdb413c2483360a675?source=copy_link)
+
+> **AI 기반 재판 결과 예측·법률 정보 제공 서비스**
+
+- **기간**: 2024.09.04 ~ 2024.12.17 · **역할**: Team Lead · Backend · Infra/DevOps
+- 카카오·네이버·구글 OAuth와 JWT 발급·재발급·로그아웃 흐름을 구현하고, Spring Boot와 FastAPI AI 서버의 API 경계를 설계했습니다.
+- React·Spring Boot·FastAPI를 독립된 컨테이너로 구성하고, GitHub Actions에서 ECR로 이미지를 배포해 ECS Fargate에서 실행하는 CI/CD 파이프라인을 구축했습니다.
+- **Tech**: `Java` `Spring Boot` `FastAPI` `React` `MySQL` `Docker Compose` `GitHub Actions` `AWS ECR` `AWS ECS Fargate` `AWS RDS` `AWS ALB` `CloudFront` `CloudWatch Logs`
+
+### 🐾 [WuZuZu](https://github.com/pastjung/NBC_WuZuZu)
+
+[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/WuZuZu-2024-03-26-2024-04-30-3d9ef948eae4802aa737d9457f939919?source=copy_link)
+
+> **반려동물 장소·중고거래·커뮤니티·채팅을 연결한 통합 서비스**
+
+- **기간**: 2024.03.26 ~ 2024.04.30 · **역할**: Backend · Infra/DevOps
+- 거래·주문·찜 도메인과 QueryDSL 조회 구조를 구현하고, UUID·S3 기반 이미지 관리를 공통 모듈로 설계했습니다.
+- Redis 기반 재고 동시성 처리와 부하 테스트를 수행해 병목을 분석했습니다. 이후 SQS FIFO 구조로 전환해 프로젝트 기록 기준 평균 응답시간을 `2,283ms → 542ms`로 약 76% 개선했습니다.
+- GitHub Actions·S3·CodeDeploy·EC2를 연결해 반복 가능한 배포 파이프라인을 구축했습니다.
+- **Tech**: `Java` `Spring Boot` `Spring Security` `JPA` `QueryDSL` `MySQL` `Redis` `AWS S3` `AWS SQS` `AWS EC2` `AWS RDS` `AWS CodeDeploy` `GitHub Actions` `JMeter`
+
+---
+
+## 🏆 Awards
+- 2026.09 | 제 8회 K-디지털 트레이닝 Hackathon 2026 (기술혁신상)
+
+## 📜 Certifications
+- 2026.05 | 데이터분석 준전문가(ADsP)
+- 2026.03 | TOEIC Speaking 110 (IM1)
+- 2025.08 | SQL 개발자(SQLD)
+- 2025.04 | 정보처리기사
+
+## ⭐ Experiences
+- 2026.01 ~ 진행중 | 삼성청년SW·AI아카데미 15기 Data 트랙
+- 2025.06 | AWS TechCamp 2025
+- 2025.05 | AWS Summit Seoul 2025
+- 2018.03 ~ 2025.02 | 인하대학교 컴퓨터공학과
+- 2015.03 ~ 2018.02 | 환일고등학교
+
+---
