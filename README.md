@@ -1,5 +1,4 @@
 ![Jaehyun Jung](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jaehyun%20Jung&fontSize=45&fontColor=FFFFFF&fontAlignY=36&descSize=18&descAlignY=58&animation=fadeIn)
-
 <div align="center">
   <p>
     <a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a>
@@ -27,9 +26,7 @@
 
 ## 💼 Internship
 
-### 🏢 Markcloud | Backend Developer Intern
-
-[![Internship](https://img.shields.io/badge/-Internship-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/2024-07-22-2024-08-16-3d7ef948eae4819ea7abf50c4ce73492?source=copy_link)
+### 🏢 Markcloud | Backend Developer Intern&emsp;[![Internship](https://img.shields.io/badge/-Internship-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/2024-07-22-2024-08-16-3d7ef948eae4819ea7abf50c4ce73492?source=copy_link)
 
 > **약 1,800만 건·40GB 규모의 USPTO 상표 데이터를 수집·저장·검색하는 서비스를 개발했습니다.**
 
@@ -59,9 +56,7 @@
 
 ## 🚀 Projects
 
-### 👁️ [eye_dont_care](https://github.com/pastjung/eye_dont_care)
-
-[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/eye-dont-care-2026-07-13-2026-08-10-3d9ef948eae481709b2bc2573e6ecac4?source=copy_link)
+### 👁️ [eye_dont_care](https://github.com/pastjung/eye_dont_care)&emsp;[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/eye-dont-care-2026-07-13-2026-08-10-3d9ef948eae481709b2bc2573e6ecac4?source=copy_link)
 
 > **웹캠과 눈동작으로 즐기는 소셜 마이크로 브레이크 서비스**
 
@@ -70,9 +65,7 @@
 - OpenVidu/LiveKit 영상·음성 통신과 WebSocket 등 Backend·Frontend 공통 난제를 해결해 6명 팀의 완주를 이끌었으며, SSAFY Best Member로 선정되었습니다.
 - **Tech**: `Java` `Spring Boot` `Vue.js` `PostgreSQL` `Redis` `WebSocket` `OpenVidu` `LiveKit` `Docker Compose` `Nginx` `Jenkins` `GitLab Webhook` `AWS EC2` `Jira`
 
-### 💵 [BondEZ](https://github.com/pastjung/Bond_EZ)
-
-[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/BondEZ-2026-05-08-2026-06-26-3d9ef948eae4807090bff1b86ea02c9f?source=copy_link)
+### 💵 [BondEZ](https://github.com/pastjung/Bond_EZ)&emsp;[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/BondEZ-2026-05-08-2026-06-26-3d9ef948eae4807090bff1b86ea02c9f?source=copy_link)
 
 > **약 29,000건의 채권·뉴스·경제지표를 연결한 개인 투자자용 금융 정보 포털**
 
@@ -82,9 +75,7 @@
 - **Core Tech**: `Python` `Django REST Framework` `Vue.js` `PostgreSQL` `Elasticsearch` `Logstash` `Gemini` `LangChain` `Docker Compose`
 - **Data Pipeline**: `Airflow` `Kafka` `Spark` `Flink` `HDFS`
 
-### ⚖️ [Open-Lawyer](https://github.com/InhaCapstone2024/Open-Lawyer)
-
-[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/Open-Lawyer-AI-2024-09-04-2024-12-17-3d8ef948eae481fdb413c2483360a675?source=copy_link)
+### ⚖️ [Open-Lawyer](https://github.com/InhaCapstone2024/Open-Lawyer)&emsp;[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/Open-Lawyer-AI-2024-09-04-2024-12-17-3d8ef948eae481fdb413c2483360a675?source=copy_link)
 
 > **AI 기반 재판 결과 예측·법률 정보 제공 서비스**
 
@@ -93,9 +84,7 @@
 - React·Spring Boot·FastAPI를 독립된 컨테이너로 구성하고, GitHub Actions에서 ECR로 이미지를 배포해 ECS Fargate에서 실행하는 CI/CD 파이프라인을 구축했습니다.
 - **Tech**: `Java` `Spring Boot` `FastAPI` `React` `MySQL` `Docker Compose` `GitHub Actions` `AWS ECR` `AWS ECS Fargate` `AWS RDS` `AWS ALB` `CloudFront` `CloudWatch Logs`
 
-### 🐾 [WuZuZu](https://github.com/pastjung/NBC_WuZuZu)
-
-[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/WuZuZu-2024-03-26-2024-04-30-3d9ef948eae4802aa737d9457f939919?source=copy_link)
+### 🐾 [WuZuZu](https://github.com/pastjung/NBC_WuZuZu)&emsp;[![Project](https://img.shields.io/badge/-Project-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/WuZuZu-2024-03-26-2024-04-30-3d9ef948eae4802aa737d9457f939919?source=copy_link)
 
 > **반려동물 장소·중고거래·커뮤니티·채팅을 연결한 통합 서비스**
 
