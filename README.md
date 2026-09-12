@@ -12,9 +12,6 @@
 
 **백엔드 개발에서 시작해 인프라와 데이터 엔지니어링까지 영역을 넓혀가며, 배운 내용을 프로젝트에서 검증하고 팀의 지식으로 남기는 개발자 정재현입니다.**
 
-- 🧩 **Backend** — Spring Boot 기반의 로그인·인증·거래·주문·찜 도메인을 구현하고, **QueryDSL로 N+1 조회 구조를 개선**했습니다. Redis 재고 **동시성 처리**와 SQS FIFO 전환으로 병목을 해결했으며, Spring Boot 메인 서버에서 FastAPI AI 서버를 비동기로 호출하도록 연계했습니다.
-- ☁️ **Infra/DevOps** — GitHub Actions 기반의 **EC2·CodeDeploy 배포**와 **ECR·ECS Fargate 컨테이너 배포**, GitLab Webhook 기반의 **Jenkins·Docker Compose 배포**까지 프로젝트 환경에 맞는 세 가지 CI/CD 파이프라인을 구축했습니다.
-- 📊 **Data Engineering** — **비동기 I/O·멀티프로세싱·멀티스레딩**으로 약 1,800만 건·40GB 데이터의 수집·전처리를 최적화하고, Elasticsearch 검색 성능을 개선했습니다. 또한 Airflow·Kafka·Spark·Flink·HDFS 파이프라인을 설계해 적재 데이터를 API와 RAG 서비스로 연결했습니다.
 - 🚀 **빠른 학습과 적용** — 인턴십에서 처음 접한 FastAPI와 Elasticsearch를 빠르게 학습해 프로젝트에 적용하였습니다. 낯선 기술도 직접 검증하며 대용량 데이터 처리와 검색 문제를 해결했습니다.
 - 🤝 **문서화와 공유** — 현재 SSAFY에서 학습을 이어가며, 동료들이 재사용할 수 있는 프로젝트 템플릿과 CI/CD 구축 문서를 제작해 공유했습니다. 협업과 기여를 인정받아 **1·2학기 모두 SSAFY Best Member**로 선정되었습니다.
 
@@ -30,7 +27,7 @@
 
 - **기간**: 2024.07.22 ~ 2024.08.16 · **직무**: Backend Developer Intern  
   **프로젝트 형태**: 1인 프로젝트 · **기여도**: 100%
-- 비동기 I/O와 멀티프로세싱, MongoDB BulkWrite·Upsert를 적용해 데이터 수집·전처리 시간을 **약 5시간에서 2시간 30분으로 50% 단축**했습니다.
+- **비동기 I/O와 멀티프로세싱, MongoDB BulkWrite·Upsert**를 적용해 데이터 수집·전처리 시간을 **약 5시간에서 2시간 30분으로 50% 단축**했습니다.
 - MongoDB 정규식 검색의 한계를 분석하고 Elasticsearch의 `edge_ngram`·`fuzziness`·`search_after`를 적용해 검색 응답을 **5초 이상에서 1초 미만으로 약 80% 개선**했습니다.
 - Selenium Headless와 멀티스레딩으로 JavaScript 기반 Case-file 데이터를 병렬 수집하고, 재실행 가능한 Docker 환경과 CSV 적재 흐름을 구성했습니다.
 - **Tech**: `Python` `FastAPI` `MongoDB` `MariaDB` `Elasticsearch` `Kibana` `aiohttp` `asyncio` `ProcessPoolExecutor` `ThreadPoolExecutor` `Selenium` `Docker Compose`
