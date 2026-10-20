@@ -4,7 +4,8 @@
 
 ## 💫 About Me&emsp;<a href="https://xn--2v5bnh859a.my.canva.site/be-resume"><img src="https://img.shields.io/badge/Resume-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Resume" /></a> <a href="https://xn--2v5bnh859a.my.canva.site/portfolio"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio" /></a>
 
-**백엔드 개발에서 시작해 인프라와 데이터 엔지니어링까지 영역을 넓혀가며, 배운 내용을 프로젝트에서 검증하고 팀의 지식으로 남기는 개발자 정재현입니다.**
+**백엔드 개발에서 시작해 인프라와 데이터 엔지니어링까지 영역을 넓혀가며,**
+**학습한 내용을 팀의 지식으로 남기는 개발자 정재현입니다.**
 
 - 🚀 **빠른 학습과 적용** — 인턴십에서 처음 접한 FastAPI와 Elasticsearch를 빠르게 학습해 프로젝트에 적용하였습니다. 낯선 기술도 직접 검증하며 대용량 데이터 처리와 검색 문제를 해결했습니다.
 - 🤝 **문서화와 공유** — 현재 SSAFY에서 학습을 이어가며, 동료들이 재사용할 수 있는 프로젝트 템플릿과 CI/CD 구축 문서를 제작해 공유했습니다. 협업과 기여를 인정받아 **1·2학기 모두 SSAFY Best Member**로 선정되었습니다.
