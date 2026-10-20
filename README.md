@@ -119,9 +119,7 @@
 - **검색·조회 안정성과 AI 질의응답 보완**  
   Elasticsearch 오류 시 PostgreSQL로 전환하는 검색 Fallback을 구현하고, 최신 시세 반복 조회·목록 응답·COUNT 처리를 개선했습니다. LangChain·Gemini API로 현재 화면의 맥락과 DB 정보를 활용하는 챗봇을 구현했습니다.
 
-**주요 기술:** `Python` `Django REST Framework` `Vue.js` `PostgreSQL` `Elasticsearch` `LangChain` `Gemini API`
-
-**파이프라인 공동 설계·연계:** `Airflow` `Kafka` `Spark` `Flink` `HDFS`
+**주요 기술:** `Python` `Django REST Framework` `Vue.js` `PostgreSQL` `Elasticsearch` `LangChain` `Gemini API`, `Airflow` `Kafka` `Spark` `Flink` `HDFS`
 
 [활동 기록](https://app.notion.com/p/pastjung/BondEZ-2026-05-08-2026-06-26-3d9ef948eae4807090bff1b86ea02c9f)
 
