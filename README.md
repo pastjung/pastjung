@@ -28,7 +28,7 @@
 
 ## 💼 Internship
 
-### 🏢 Markcloud | Backend Developer Intern&emsp;[![Internship](https://img.shields.io/badge/-Internship-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/2024-07-22-2024-08-16-3d7ef948eae4819ea7abf50c4ce73492?source=copy_link)
+### 🏢 Markcloud | Backend Developer Internship&emsp;[![Internship](https://img.shields.io/badge/-Internship-E5E7EB?style=flat-square&logo=notion&logoColor=111827)](https://app.notion.com/p/pastjung/2024-07-22-2024-08-16-3d7ef948eae4819ea7abf50c4ce73492?source=copy_link)
 
 > **약 1,800만 건·40GB 규모의 USPTO 상표 데이터를 수집·저장·검색하는 서비스를 개발했습니다.**
 
