@@ -65,7 +65,7 @@
 
 ## 🚀 Projects
 
-### ⠿ [이음](https://github.com/pastjung/ieum)
+### ⠿ [이음(I:EUN)](https://github.com/pastjung/ieum)
 
 > 시각장애인을 위한 점자 학습 플랫폼
 
